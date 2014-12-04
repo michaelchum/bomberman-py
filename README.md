@@ -2,26 +2,6 @@ Team 12 Bomberman
 =================
 
 ##########
-###Authors & Copyright notice
-
-All rights reserved ©
-
-Gabriel Gibeault-Girard gabriel.gibeault-girard@mail.mcgill.ca
-
-Mathieu Wang mathieu.wang@mail.mcgill.ca
-
-Stefan Tihanyi stefan.tihanyi@mail.mcgill.ca
-
-Michael Ho micheal.ho@mail.mcgill.ca
-
-##########
-###Project location
-
-GitHub url: https://github.com/mcgill-ecse321/Team-12
-
-git clone's url: git@github.com:mcgill-ecse321/Team-12.git
-
-##########
 ### Dependencies
 
 Programming language: Python 2.7.5
